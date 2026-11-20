@@ -30,6 +30,9 @@ In-house product studio and consultancy. Essential by design. Long shelf life.
 | [claude-setup-dashboard](https://github.com/ANDRS-Projects/claude-setup-dashboard) | Claude Code skill to create a living view of what your Claude setup can actually do. |
 | [cloudflare-uptime-oss](https://github.com/ANDRS-Projects/cloudflare-uptime-oss) | Uptime monitor on Cloudflare Workers. No infrastructure, no overhead. |
 | [retro-reader](https://github.com/ANDRS-Projects/retro-reader) | Retro, TV-themed RSS/Atom feed reader you run locally. No login, no cloud — just your feeds. |
+| [marginalia](https://github.com/ANDRS-Projects/marginalia) | A quiet corner before the busy work — sticky notes, a breathing exercise and a thoughtful quote, tucked at the edge of your screen. |
+| [glyph-press](https://github.com/ANDRS-Projects/glyph-press) | Type once, get instant Unicode look-alike text styles plus a tap-to-copy kaomoji library. |
+| [exec-room](https://github.com/ANDRS-Projects/exec-room) | A local team of Claude Code agents working together in rooms to research, review and draft for your business. Nothing leaves a room without your approval. |
 
 ---
 
